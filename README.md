@@ -2,7 +2,7 @@
 
 本專案使用 **PyTorch** 實作一個 **U-Net 多類別語意分割模型**，針對影像與其對應遮罩（mask）進行訓練、驗證與測試。程式包含資料前處理、資料增強、模型訓練、Early Stopping、學習率調整，以及多種分割評估指標的計算。
 
-> 這份程式目前以 **Jupyter Notebook** 形式撰寫，適合用於課堂作業、模型實驗記錄與分割任務原型開發。
+> Dataset: https://data.mendeley.com/datasets/wg4bpm33hj/2
 
 ---
 
